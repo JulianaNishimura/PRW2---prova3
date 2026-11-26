@@ -5,7 +5,7 @@ import bcrypt from 'bcryptjs';
 const app = express();
 
 app.use(express.json());
-const JWT_SECRET = "sua_chave_secreta_aqui";
+const JWT_SECRET = "Avaliacao3_JWT_2026_Express_7f9c2d8a4b6e1f3c";
 const users = [];
 
 const alunos = [
